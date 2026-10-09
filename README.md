@@ -1,22 +1,25 @@
 # Olá, eu sou Lucas de Lima 👋
 
-### Desenvolvedor Full Stack
+### Desenvolvedor Full Stack | PHP · Vue.js/Quasar · APIs REST
 
-Desenvolvedor focado em **tecnologia, sistemas e resolução de problemas**.
+**Software para problemas reais — da regra de negócio à aplicação em produção.**
 
-Atualmente atuo no desenvolvimento, manutenção e evolução de sistemas web na **Força Aérea Brasileira**, trabalhando tanto no back-end quanto no front-end e buscando transformar regras de negócio e necessidades reais em soluções funcionais e bem estruturadas.
+Atuo no desenvolvimento, modernização e sustentação de sistemas corporativos na **Força Aérea Brasileira**, com foco em aplicações web, integrações e fluxos operacionais. Também desenvolvo projetos independentes voltados à automação de processos e à criação de produtos digitais.
+
+*Building software that solves real-world problems.*
 
 ---
 
 ## 👨‍💻 Sobre mim
 
-* 💻 Desenvolvedor **Full Stack**, atualmente com uma base mais sólida em back-end
-* 🇧🇷 Atuo com desenvolvimento de sistemas na **Força Aérea Brasileira**
-* 🎓 Concluindo **Análise e Desenvolvimento de Sistemas**
-* 🧩 Gosto de entender a **regra de negócio** antes de partir para o código
-* 🚀 Buscando evoluir em **Arquitetura de Software, Clean Code e Padrões de Projeto**
-* 🤝 Trabalhando também no desenvolvimento das minhas **soft skills**, principalmente comunicação
-* 📚 Sempre aberto a aprender novas tecnologias, frameworks e abordagens
+- 💼 **Experiência profissional:** desenvolvimento Full Stack e sustentação de aplicações utilizadas em ambiente institucional.
+- 🧩 **Foco em negócio:** transformar requisitos e processos complexos em soluções claras, funcionais e sustentáveis.
+- 🛠️ **Atuação ponta a ponta:** análise, implementação, integração, investigação de incidentes e evolução de sistemas.
+- 🎓 **Formação:** graduando em Análise e Desenvolvimento de Sistemas.
+- 📚 **Aprofundamento:** arquitetura de software, qualidade, testes automatizados e DevOps.
+- 🚀 **Projetos próprios:** aplicações e ferramentas orientadas a problemas concretos.
+
+> **EN:** Full Stack Developer based in Brazil, experienced in enterprise applications, REST APIs, business workflows and production support. I build independent software projects and welcome freelance opportunities and technical collaboration.
 
 ---
 
@@ -25,117 +28,122 @@ Atualmente atuo no desenvolvimento, manutenção e evolução de sistemas web na
 ### Tecnologias principais
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=php,mysql,vue,js,html,css,git,github" />
+  <img src="https://skillicons.dev/icons?i=php,vue,js,ts,mysql,postgres,docker,git" alt="PHP, Vue.js, JavaScript, TypeScript, MySQL, PostgreSQL, Docker e Git" />
 </p>
 
-### Back-end
+### Back-end e APIs
 
 <p>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST_APIs-0F2A5F?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/Symfony-222222?style=for-the-badge&logo=symfony&logoColor=white" alt="Symfony" />
+  <img src="https://img.shields.io/badge/REST_APIs-0F2A5F?style=for-the-badge" alt="APIs REST" />
 </p>
 
 ### Front-end
 
 <p>
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Quasar-1976D2?style=for-the-badge&logo=quasar&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue.js" />
+  <img src="https://img.shields.io/badge/Quasar-1976D2?style=for-the-badge&logo=quasar&logoColor=white" alt="Quasar" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+</p>
+
+### Dados e infraestrutura
+
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
 </p>
 
 ### Ferramentas e práticas
 
 <p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
-  <img src="https://img.shields.io/badge/Clean_Code-0F2A5F?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 </p>
 
 ---
 
 ## 📚 Atualmente estudando e evoluindo em
 
-* Arquitetura de Software
-* Clean Code
-* Padrões de Projeto
-* Boas práticas de desenvolvimento
-* Novos frameworks e arquiteturas
-* Comunicação e soft skills
+- **Engenharia de software:** arquitetura, modelagem e decisões técnicas.
+- **Qualidade:** testes automatizados, análise estática e manutenção de código.
+- **DevOps:** integração contínua, containers, automação e observabilidade.
 
-> **Full Stack não significa saber tudo. Significa continuar ampliando a capacidade de resolver problemas de ponta a ponta.**
+Também sigo as trilhas de **Back-End PHP** e **Engenharia DevOps** da Alura, aplicando os conhecimentos em projetos próprios.
 
 ---
 
 ## 💼 Experiência profissional
 
-Atualmente participo do desenvolvimento e evolução de sistemas utilizados em ambiente institucional na **Força Aérea Brasileira**.
+Atuo no desenvolvimento e na evolução de sistemas corporativos da **Força Aérea Brasileira**, em diferentes domínios de negócio:
 
-Minha atuação envolve atividades como:
+- **e-SISHT — Gestão Hoteleira:** funcionalidades de reservas, hospedagens, documentos, pagamentos e integrações.
+- **GEDEx — Gerenciador Eletrônico de Diárias no Exterior:** modernização de fluxos administrativos e financeiros, com validações, documentos e automação de processos.
+- **Heimdall — Controle de Acesso:** participação no desenvolvimento de uma nova solução corporativa.
 
-* Desenvolvimento de funcionalidades
-* Manutenção e evolução de sistemas existentes
-* Correção de bugs
-* Desenvolvimento de APIs REST
-* Manipulação e modelagem de dados
-* Desenvolvimento de interfaces
-* Implementação de regras de negócio
-* Versionamento de código
-* Modernização de aplicações
+Minha atuação também inclui **sustentação de sistemas em produção**, diagnóstico de incidentes e correções relacionadas a código, dados e regras de negócio. Antes do desenvolvimento, trabalhei com suporte técnico e atendimento aos usuários.
 
-Grande parte dessa experiência está relacionada a **repositórios institucionais internos**, por isso estou ampliando gradualmente meu portfólio público aqui no GitHub com projetos pessoais, estudos e novas aplicações.
+> O código dos sistemas corporativos é mantido em repositórios institucionais privados no GitLab da organização. Os projetos públicos abaixo representam trabalhos independentes e estudos técnicos.
 
 ---
 
-## 🚀 O que você vai encontrar por aqui
+## 🚀 Projetos em destaque
 
-Este GitHub está sendo construído como parte do meu portfólio profissional.
+### 🔧 [Codex Kit](https://github.com/lucasdelima-dev/codex-kit)
 
-Pretendo compartilhar:
+**Developer Tooling · Automação · Ambientes reproduzíveis**
 
-* 💻 Projetos Full Stack
-* 🔌 APIs REST
-* 🐘 Projetos com PHP
-* 🟢 Aplicações com Vue.js e Quasar
-* 🗄️ Projetos envolvendo banco de dados
-* 🧪 Estudos e experimentos
-* 📐 Arquitetura e boas práticas
-* 📚 Projetos criados durante minha evolução profissional
+Toolkit independente para preparar e organizar ambientes de desenvolvimento assistido por IA, reduzindo configurações manuais e diferenças entre máquinas e projetos.
+
+- Bootstrap para **Linux, macOS e Windows**.
+- Perfis isolados, ferramentas versionadas e diagnóstico do ambiente.
+- Scripts de automação, documentação e workflows de CI.
+
+### 📋 [TaskFlow Leão](https://github.com/lucasdelima-dev/taskflow-leao)
+
+**Full Stack · Gestão Operacional · Integrações**
+
+Aplicação web para organizar cronogramas, distribuir tarefas e acompanhar rotinas operacionais de equipes.
+
+- API em **PHP/Slim** e interface em **Vue.js/Quasar**.
+- Persistência em PostgreSQL e ambiente com Docker.
+- Integração com Telegram e processamento de notificações em background.
+
+*Projeto pessoal em evolução.*
 
 ---
 
 ## 🎯 Meu objetivo
 
-Continuar evoluindo como **Desenvolvedor Full Stack**, aprofundando minha capacidade de construir aplicações bem estruturadas e, principalmente, desenvolver soluções que resolvam problemas reais.
+Construir software que resolva necessidades reais, com atenção à **clareza das regras de negócio, qualidade técnica e manutenção ao longo do tempo**.
 
-Para mim, código é uma ferramenta.
-
-O objetivo é sempre **entender o problema e entregar uma solução que faça sentido**.
+Busco unir experiência prática, fundamentos de engenharia e visão de produto para desenvolver soluções úteis a pessoas e organizações.
 
 ---
 
 ## 🤝 Vamos nos conectar?
 
+Aberto a **freelas, projetos de desenvolvimento de software, colaboração técnica e networking** no Brasil e no exterior.
+
 <p align="left">
   <a href="https://www.linkedin.com/in/lucasdelima-dev/">
-    <img src="https://img.shields.io/badge/LinkedIn-Lucas_de_Lima-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Lucas_de_Lima-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn de Lucas de Lima" />
   </a>
-
   <a href="https://github.com/lucasdelima-dev">
-    <img src="https://img.shields.io/badge/GitHub-lucasdelima--dev-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-lucasdelima--dev-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub de Lucas de Lima" />
   </a>
-
   <a href="https://instagram.com/lucasdelima_dev">
-    <img src="https://img.shields.io/badge/Instagram-@lucasdelima__dev-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-@lucasdelima__dev-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram de Lucas de Lima" />
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <strong>Tecnologia • Sistemas • Resolução de problemas</strong>
+  <strong>Tecnologia • Engenharia de Software • Soluções para problemas reais</strong>
 </p>
